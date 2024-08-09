@@ -1,0 +1,25 @@
+.friendListItemFlexContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.friendListItemImage {
+}
+
+.friendListItemName {
+  font-weight: 500;
+  font-size: 22px;
+}
+
+.friendListItemStatusNetwork {
+  font-size: 18px;
+}
+
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+}
